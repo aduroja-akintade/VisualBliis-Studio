@@ -1,0 +1,7 @@
+{
+  "name": "VisualBliss",
+  "description": "A professional-grade AI photo retouching studio that preserves identity and photographic integrity for LinkedIn, corporate branding, and editorial portraits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
